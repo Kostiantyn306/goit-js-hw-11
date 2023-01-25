@@ -1,9 +1,10 @@
-4961
+4960
 76C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\picomatch\LICENSE133191480256869350 0
 91C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\nth-check\lib\esm\compile.js.map133191480262957456 0
 96C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\core\src\public\Dependency.js133191480267680266 0
 91C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\node-gyp-build-optional-packages133191480260876659 1
 65C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\fclone133191480262605411 1
+68C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\dist\index.f7d6c785.js133191497678718903 0
 85C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\workers\src\bus.js133191480260362743 0
 58C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\README.uk.md133191475157964935 0
 78C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\weak-lru-cache\dist133191480256770403 1
@@ -53,7 +54,7 @@
 67C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\mdn-data133191480265463323 1
 101C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\htmlnano\docs\versioned_docs\version-2.0.0133191480268245177 1
 93C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\type-fest\ts41\delimiter-case.d.ts133191480262774284 0
-50C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\dist133191491434165247 1
+50C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\dist133191497679174204 1
 106C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\features\css-rebeccapurple.js133191480952919312 0
 85C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\nth-check\lib\esm\index.js133191480259655189 0
 100C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\css-tree\lib\syntax\node\ClassSelector.js133191480263555475 0
@@ -161,7 +162,7 @@
 82C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\parent-module\readme.md133191480259254099 0
 77C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\msgpackr\pack.d.ts133191480264407184 0
 86C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\css-tree\lib\lexer\Lexer.js133191480268478584 0
-49C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\src133191475169876603 1
+49C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\src133191496361322828 1
 129C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\posthtml-include\node_modules\posthtml-parser\dist\location-tracker.js133191480259614129 0
 78C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\micromatch\index.js133191480257763250 0
 63C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\.bin133191480279996962 1
@@ -171,6 +172,12 @@
 53C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\src\css133191475169966093 1
 101C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\markdown-ansi\lib\markdown-ansi.js133191480258105534 0
 81C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\form-data\package.json133191480260793098 0
+83C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\proxy-from-env\README.md133191480260793098 0
+125C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\dom-serializer\node_modules\entities\lib\decode_codepoint.d.ts.map133191480262712714 0
+67C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\css-what133191480264169132 1
+82C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\react-error-overlay\lib133191480257669365 1
+100C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\source-map-js\lib\source-map-generator.js133191480262256274 0
+84C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\delayed-stream\.npmignore133191480257791100 0
 86C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\svgo\plugins\removeXMLNS.js133191480267980561 0
 67C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\src\fetchContainer.js133191475164553966 0
 86C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\css-tree\lib\lexer\error.js133191480266962980 0
@@ -187,7 +194,7 @@
 91C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\nth-check\lib\esm\index.d.ts.map133191480263156299 0
 92C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\weak-lru-cache\tests\benchmark.js133191480258175427 0
 82C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\sass\types\options.d.ts133191480268668612 0
-57C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\src\find.js133191475165333688 0
+57C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\src\find.js133191497557304060 0
 76C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\binary-extensions133191480260956849 1
 90C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\regions\AX.js133191480949680393 0
 90C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\css-tree\lib\parser\sequence.js133191480269755821 0
@@ -205,7 +212,7 @@
 90C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\regions\AM.js133191480949022340 0
 82C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\yaml\types\timestamp.js133191480266647039 0
 116C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\Makefile133191480263463337 0
-60C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\src\index.html133191475167220739 0
+60C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\src\index.html133191496502144828 0
 100C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\features\pointerlock.js133191480961011652 0
 94C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\type-fest\source\literal-union.d.ts133191480264356748 0
 77C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\axios\dist\browser133191480268590167 1
@@ -214,12 +221,6 @@
 90C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\regions\FO.js133191480955296101 0
 60C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\src\massage.js133191475168174249 0
 73C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\posthtml\types133191480260654104 1
-75C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\term-size\vendor133191480260104044 1
-69C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\css-select133191480265153119 1
-65C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\buffer133191480261936712 1
-108C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\source-map\dist\wasm-bindings-web.js.flow133191480260383097 0
-84C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\source-map-js\lib\util.js133191480262957456 0
-59C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\src\scroll.js133191475169791967 0
 76C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\cache\lib133191480263463337 1
 77C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\.package-lock.json133191490786171720 0
 73C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\fs\src133191480262753165 1
@@ -313,6 +314,9 @@
 78C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\is-number\README.md133191480259254099 0
 78C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\json5\lib\util.d.ts133191480264568115 0
 90C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\posthtml-match-helper\readme.md133191480258545822 0
+75C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\term-size\vendor133191480260104044 1
+69C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\css-select133191480265153119 1
+65C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\buffer133191480261936712 1
 122C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV4\package.json133191480264945423 0
 68C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\callsites133191480259857010 1
 71C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite133191480964744906 1
@@ -336,12 +340,6 @@
 95C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\yaml\browser\dist\Schema-e94716c8.js133191480265985024 0
 125C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV3\files\file1.txt133191480266188541 0
 69C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\color-name133191480259146072 1
-83C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\proxy-from-env\README.md133191480260793098 0
-125C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\dom-serializer\node_modules\entities\lib\decode_codepoint.d.ts.map133191480262712714 0
-67C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\css-what133191480264169132 1
-82C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\react-error-overlay\lib133191480257669365 1
-100C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\source-map-js\lib\source-map-generator.js133191480262256274 0
-84C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\delayed-stream\.npmignore133191480257791100 0
 94C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\core\test\fixtures\main-mjs133191480271248215 1
 77C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\utility-types\dist133191480264246940 1
 109C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\features\intersectionobserver.js133191480956786432 0
@@ -1357,8 +1355,8 @@
 85C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\svgo\plugins\removeDesc.js133191480266772302 0
 76C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\fs-search133191480266772302 1
 77C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\path-type\index.js133191480258545822 0
-95C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\svgo\plugins\removeElementsByAttr.js133191480267004307 0
 75C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\stable\stable.js133191480259228076 0
+95C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\svgo\plugins\removeElementsByAttr.js133191480267004307 0
 97C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\transformer-babel\src\types.js133191480264055765 0
 83C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\packager-css\src133191480258853444 1
 84C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\is-binary-path\index.d.ts133191480257773493 0
@@ -1472,6 +1470,8 @@
 105C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\transformer-react-refresh-wrap\LICENSE133191480257054771 0
 91C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\htmlnano\docs\docs\030-config.md133191480267680266 0
 91C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\source-map-js\lib\source-node.js133191480262753165 0
+108C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\source-map\dist\wasm-bindings-web.js.flow133191480260383097 0
+84C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\source-map-js\lib\util.js133191480262957456 0
 86C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\events\src\types.js133191480262368621 0
 74C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\source-map\dist133191480265062198 1
 90C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\regions\TO.js133191480963361777 0
@@ -1973,7 +1973,7 @@
 78C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\color-name\index.js133191480257791100 0
 115C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV3\files133191480267004307 1
 88C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\csso\lib\replace\Dimension.js133191480265570126 0
-61C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\dist\index.html133191484115949767 0
+61C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\dist\index.html133191497678709740 0
 122C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV3\package.json133191480264659868 0
 89C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\cache\src\LMDBCache.js133191480262555475 0
 94C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\@swc\helpers\src\_async_iterator.js133191480269097210 0
@@ -2155,9 +2155,9 @@
 95C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\nan\nan_define_own_property_helper.h133191480261263667 0
 90C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\regions\LA.js133191480958155524 0
 101C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\@jridgewell\source-map\dist\source-map.mjs133191480262368621 0
-84C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\optimizer-css\lib133191480257855654 1
 90C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\nan\nan_implementation_12_inl.h133191480261718969 0
 95C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\dist\unpacker\agents.js133191480948608959 0
+84C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\optimizer-css\lib133191480257855654 1
 99C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\dom-serializer\node_modules\entities\lib133191480264080686 1
 90C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\regions\WS.js133191480964568551 0
 81C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\nan\nan_maybe_43_inl.h133191480262605411 0
@@ -2537,7 +2537,6 @@
 90C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\regions\GT.js133191480955861457 0
 102C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\runtime-service-worker\package.json133191480259701179 0
 97C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\entities\lib\decode_codepoint.d.ts.map133191480263382789 0
-72C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\dist\index.0942aaf1.js.map133191491434028062 0
 75C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\json5\lib\cli.js133191480257254338 0
 79C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\json5\lib\index.d.ts133191480263957420 0
 79C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\json5\lib\require.js133191480261790067 0
@@ -2844,6 +2843,7 @@
 69C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\dotenv\lib133191480261536671 1
 102C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\electron-to-chromium\chromium-versions.json133191480261557033 0
 107C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\electron-to-chromium\full-chromium-versions.json133191480262061650 0
+72C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\dist\index.bb0dfe31.js.map133191497679036697 0
 98C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\electron-to-chromium\full-versions.json133191480262522279 0
 88C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\electron-to-chromium\index.js133191480260729726 0
 99C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\node-resolver-core\src\_empty.js133191480258853444 0
@@ -3310,7 +3310,6 @@
 90C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\regions\GD.js133191480955617332 0
 94C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\features\mpeg4.js133191480959989044 0
 95C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\optimizer-image\package.json133191480260253246 0
-72C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\dist\index.99fd34db.js.map133191491434028062 0
 93C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\features\opus.js133191480960646477 0
 90C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\regions\GF.js133191480955701621 0
 99C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\features\filesystem.js133191480955166356 0
@@ -3406,7 +3405,6 @@
 90C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\regions\PH.js133191480960856215 0
 90C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\regions\PK.js133191480960926992 0
 90C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\regions\PM.js133191480960961017 0
-68C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\dist\index.0942aaf1.js133191491433985032 0
 90C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\regions\PR.js133191480961056433 0
 110C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\@jridgewell\resolve-uri\dist\resolve-uri.umd.js.map133191480260498822 0
 90C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\regions\PS.js133191480961374713 0
@@ -4953,9 +4951,10 @@
 68C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\.bin\svgo133191480279956696 0
 72C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\.bin\svgo.cmd133191480279946477 0
 72C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\node_modules\.bin\svgo.ps1133191480279946477 0
-68C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\dist\index.99fd34db.js133191491433925993 0
-69C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\dist\index.fca83279.css133191491433925993 0
-73C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\dist\index.fca83279.css.map133191491433925993 0
+68C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\dist\index.bb0dfe31.js133191497678718903 0
+72C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\dist\index.f7d6c785.js.map133191497679045351 0
+69C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\dist\index.fca83279.css133191497678709740 0
+73C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\dist\index.fca83279.css.map133191497678996538 0
 78C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\assets\actions-config-step-1.png133191475160887322 0
 78C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\assets\actions-config-step-2.png133191475161686631 0
 70C:\Users\a-zko\Documents\GitHub\goit-js-hw-11\assets\repo-settings.png133191475163174995 0

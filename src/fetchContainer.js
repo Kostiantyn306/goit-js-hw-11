@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const BASA_URL = 'https://pixabay.com/api/';
-const apiKey = '11765026-ad058062c9714826adefbf756';
+const apiKey = '33121669-f13e2ba950735c35a1fd3ade1';
 
 export async function onLoad(searchQuery, page) {
   const resp = await axios.get(

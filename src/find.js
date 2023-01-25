@@ -3,7 +3,6 @@ import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
 import { onLoad } from './fetchContainer';
 import { message } from './massage';
-import { scroll } from './scroll';
 
 const inputForm = document.querySelector('form');
 const gallery = document.querySelector('.gallery');
